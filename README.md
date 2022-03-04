@@ -7,9 +7,9 @@
 
 <div align="center">
 
-# 🔶<br>Generator Data Template
+# 🙃<br>Coin Generator (en)
 
-This repository contains the Generator Data Template for 🙃 Phony Framework.
+This repository contains the Coin Generator (en) for 🙃 Phony Framework.
 
 </div>
 
